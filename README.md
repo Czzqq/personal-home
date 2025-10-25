@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,c,clion,cmake,git,github,md,neovim,nginx,arduino,docker,html,notion,vim,qt,raspberrypi,stackoverflow,svg,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,apple,c,zig,rust,clion,cmake,git,github,md,neovim,vim,nginx,arduino,docker,html,notion,raspberrypi,stackoverflow,svg,vscode)](https://skillicons.dev)
